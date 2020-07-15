@@ -14,3 +14,5 @@ To view the entire project:
 2. open COMP1800_CW.ipynb in Google Colab.
 3. upload the 5 CSV files to the Colab notebook.
 4. Ctrl + F9 to run all cells.
+
+Check out https://imgur.com/a/OacWthJ to view some of the plots.
